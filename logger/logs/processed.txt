@@ -1,0 +1,13 @@
+[33m[nodemon] 2.0.15[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node --prof-process isolate-0xnnnnnnnnnnnn-v8.log src/server.js`[39m
+Unable to read v8-version from log file.
+Statistical profiling result from src/server.js, (0 ticks, 0 unaccounted, 0 excluded).
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node --prof-process isolate-0xnnnnnnnnnnnn-v8.log src/server.js`[39m
+Unable to read v8-version from log file.
+Statistical profiling result from src/server.js, (0 ticks, 0 unaccounted, 0 excluded).
+[32m[nodemon] clean exit - waiting for changes before restart[39m
